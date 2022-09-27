@@ -8,5 +8,6 @@ p {
 
 p::first-letter {
     text-transform: uppercase;
-    font-size: x-large;
+    font-size: xx-large;
+    color: #2A623D;
 }
