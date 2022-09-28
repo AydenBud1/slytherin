@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 header{
     background-color: #AAAAAA;
 }
@@ -14,3 +15,18 @@ p {
 
 
    
+=======
+body {
+    background-color: #5D5D5D;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p::first-letter {
+    text-transform: uppercase;
+    font-size: xx-large;
+    color: #1A472A;
+}
+>>>>>>> 32526406f4ce0e490d2457aa18e16d939f60b435
