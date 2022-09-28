@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .topnav a {
     float: left;
     display: block;
@@ -53,6 +54,11 @@ p::first-letter {
 h1 {
   font-family: sans-serif;
 }
+=======
+.house{
+font-weight:bold;
+}
+>>>>>>> f134254125578dc77161b8695a0dc4095a1d49e0
 =======
 <<<<<<< HEAD
 header{
