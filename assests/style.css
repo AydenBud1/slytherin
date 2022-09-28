@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .topnav a {
     float: left;
     display: block;
@@ -52,3 +53,37 @@ p::first-letter {
 h1 {
   font-family: sans-serif;
 }
+=======
+<<<<<<< HEAD
+header{
+    background-color: #AAAAAA;
+}
+h3 {
+color: #1a472a;
+text-align: center;
+
+}
+p {
+    color: #2A623D;
+    text-align: center;
+    
+    }
+
+
+   
+=======
+body {
+    background-color: #5D5D5D;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p::first-letter {
+    text-transform: uppercase;
+    font-size: xx-large;
+    color: #1A472A;
+}
+>>>>>>> 32526406f4ce0e490d2457aa18e16d939f60b435
+>>>>>>> 497dd0f1a8233efd9d5e2b1beb06a90c590c839c
