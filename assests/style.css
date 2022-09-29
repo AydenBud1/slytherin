@@ -1,27 +1,19 @@
-<<<<<<< HEAD
+
 header{
     background-color: #AAAAAA;
 }
 h3 {
 color: #1a472a;
 text-align: center;
-
 }
-p {
-    color: #2A623D;
-    text-align: center;
-    
-    }
 
-
-   
-=======
 body {
-    background-color: #5D5D5D;
+    background-color: #aaa5a5;
 }
 
 p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
 
 p::first-letter {
@@ -29,4 +21,4 @@ p::first-letter {
     font-size: xx-large;
     color: #1A472A;
 }
->>>>>>> 32526406f4ce0e490d2457aa18e16d939f60b435
+
