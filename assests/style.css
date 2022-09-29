@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
 .topnav a {
     float: left;
     display: block;
@@ -46,6 +42,8 @@ body {
 
 p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
 }
 
 p::first-letter {
@@ -57,14 +55,12 @@ p::first-letter {
 h1 {
   font-family: sans-serif;
 }
-=======
+
 .house{
 font-weight:bold;
 }
->>>>>>> f134254125578dc77161b8695a0dc4095a1d49e0
-=======
-<<<<<<< HEAD
->>>>>>> c7255374dc1e08207c05cbe7065aa0819213742c
+
+
 header{
     background-color: #AAAAAA;
 }
@@ -77,19 +73,5 @@ body {
     background-color: #aaa5a5;
 }
 
-p {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    text-align: center;
-}
 
-p::first-letter {
-    text-transform: uppercase;
-    font-size: xx-large;
-    color: #1A472A;
-}
-<<<<<<< HEAD
 
-=======
->>>>>>> 32526406f4ce0e490d2457aa18e16d939f60b435
->>>>>>> 497dd0f1a8233efd9d5e2b1beb06a90c590c839c
->>>>>>> c7255374dc1e08207c05cbe7065aa0819213742c
