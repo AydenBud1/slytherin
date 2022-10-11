@@ -218,3 +218,7 @@ li a:hover:not(.active) {
 .active {
   background-color: #1a472a;;
 }
+
+html {
+  scroll-behavior: smooth;
+}
