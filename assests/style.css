@@ -94,6 +94,7 @@ background-color: var(--lightgray);
 h1 {
 color: var(--darkgreen);
 font-family: 'Courier New', Courier, monospace;
+text-align: center;
 }
 
 h3 {
@@ -148,7 +149,21 @@ background-color: #1a472a;;
 html { scroll-behavior: smooth; }
 
 .center {
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
   padding: 10px;
+  display: block;
+}
+.left {
+  margin-left: auto;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto ;
+  grid-gap: 50px;
+  padding: 10px;
+}
+.grid-item {
+  border: 1px solid rgba(0, 0, 0, 0.8);
 }
